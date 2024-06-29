@@ -13,3 +13,5 @@ OS: Windows, Linux, Android, iOS
 Logging stacks: Kibana
 
 Highly interesting in jobs with creative teams which going to create something new and great while working in a comfort team-oriented environment.
+
+https://www.linkedin.com/in/vladislav-karchmit/
