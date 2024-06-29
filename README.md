@@ -1,1 +1,1 @@
-# some_exumple_resumes
+# some_example_resumes
